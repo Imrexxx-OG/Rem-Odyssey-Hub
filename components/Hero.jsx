@@ -6,7 +6,7 @@ export default function Hero() {
   <section style={styles.hero}>
   <div style={styles.imageContainer}>
   <img
-  src="/images/rem-chibi.jpeg"
+  src="https://moccasin-wrong-prawn-350.mypinata.cloud/ipfs/bafkreic6sqagkle4dfi5qrrr4xqjqdts7hbpcn2nlxuq7mm3mpghaetsem"
   alt="Chibi Rem, the Maid of Dreams"
   style={styles.remImage}
   />
